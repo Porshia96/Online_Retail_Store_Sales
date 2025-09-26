@@ -23,6 +23,6 @@ Before building the dashboard, the dataset was cleaned in Excel:
 - Total Revenue: £14,685,374.38
 - Total Units Sold: 400,428
 - Strongest sales months: October–December
-- United Kingdom dominates sales & units sol
+- United Kingdom dominates sales & units sold
 
-Dashboard Preview
+
